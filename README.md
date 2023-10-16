@@ -16,7 +16,7 @@ Copyright: Sabyasachi Sutradhar (Sabyasachi.sutradhar@yale.edu), 2022
 
 License:
 
-GNU General Public License (GPL)
+Creative Commons Legal Code
 
 Installation: This package plugin for MATLAB. Just download it and double-click. It will be added to your MATLAB apps.
 

@@ -31,7 +31,7 @@ To quantify the characteristics of branched neuronal structures, the following s
 5.	Branchpoint and Endpoint Detection: MATLAB's 'bwmorph' function is utilized to detect branchpoints and endpoints.
 6.	Small-Scale Properties: Small-scale properties like the fractal dimension are computed using the box-counting method.
 7.	Mesh Size Calculation: The mesh size is determined based on the method outlined in Ganguly et al. (2016) arXiv.
-8.	Topological Calculations: Two key metrics are employed for topological analysis. First, the calculation of leaf nodes follows the approach introduced by Liao et al. (PNAS). Subtree size calculation adheres to the method presented by Hannezo et al. Additionally, the software computes the Strahler number of the branches.
+8.	Topological Calculations: Two key metrics are employed for topological analysis. First, the calculation of leaf nodes follows the approach introduced by Liao et al.2020,PNAS. Subtree size calculation adheres to the method presented by Hannezo et al, 201, Cell. Additionally, the software computes the Strahler number of the branches.
 
 
 

@@ -52,7 +52,8 @@ Example image:
 Binarized image
 ![Test_Binary](https://github.com/SabyasachiSutradhar/QNMorpho/assets/49563656/778adfc2-4769-409d-a1df-afdf2b9bf0b1)
 
+Acknowledgment:
+Sonal Shree for providing the experimental images.
 
- 
 
 

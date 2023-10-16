@@ -44,13 +44,8 @@ Looped Structure Handling: In cases where looped structures exist in the neurona
 
 Image Type: This software is specifically designed to process grayscale images (8/16 bit). Ensure that your images are in the appropriate format for accurate analysis. 
 
-Example image:
-
-![Test_Raw](https://github.com/SabyasachiSutradhar/QNMorpho/assets/49563656/7ac662fd-3792-421d-a8eb-1eebcffa3a9d)
-
-
-Binarized image
-![Test_Binary](https://github.com/SabyasachiSutradhar/QNMorpho/assets/49563656/778adfc2-4769-409d-a1df-afdf2b9bf0b1)
+Here is look of the software:
+![Screenshot 2023-10-16 at 2 19 40 PM (2)](https://github.com/SabyasachiSutradhar/QNMorpho/assets/49563656/587f6e2a-e2e2-477d-a344-9e4b8441ba07)
 
 Acknowledgment:
 Sonal Shree for providing the experimental images.
